@@ -1,9 +1,10 @@
 How to run the Online DJ Booking  Management System Project 
 
-1. Download the zip file
-![WhatsApp Image 2024-02-05 at 09 28 04_7c1a2ba4](https://github.com/HarshuGY/database/assets/152411694/a12f6d31-3d4e-40df-9349-561212968fe8)
+1. Download the zip file 
+![WhatsApp Image 2024-02-05 at 09 28 04_7c1a2ba4](https://github.com/HarshuGY/database/assets/152411694/14b098e2-5222-4b1a-aacd-be91fc6f4a08)
 
-2. Extract the file and copy odms folder
+zip file link-https://www.campcodes.com/downloads/complete-online-dj-booking-system-using-php-mysql-source-code/?wpdmdl=5071&refresh=65c05b8c153831707105164
+2. Extract the file and copy odms folder 
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
