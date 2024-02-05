@@ -13,14 +13,18 @@ zip file link-https://www.campcodes.com/downloads/complete-online-dj-booking-sys
 ![image](https://github.com/HarshuGY/database/assets/152411694/6aca3672-9472-465a-89a2-9f009b6e6ee9)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+                                                    ![Screenshot 2024-02-05 095950](https://github.com/HarshuGY/database/assets/152411694/33625be0-c364-4f96-8f6a-9e9ddd6887e7)
 
 5. Create a database with name odmsdb
 
 6. Import odmsdb.sql file(given inside the zip package in SQL file folder)
+![Screenshot 2024-02-05 100545](https://github.com/HarshuGY/database/assets/152411694/88d6de42-e49b-4cbc-a9f2-d9fe363f9bed)
 
 7.Run the script http://localhost/odms
+![Screenshot 2024-02-05 101318](https://github.com/HarshuGY/database/assets/152411694/790d8226-3aa7-40b6-a995-9212ccc7995f)
 
 Admin Credential
+![WhatsApp Image 2024-02-05 at 10 15 15_4f8d4e82](https://github.com/HarshuGY/database/assets/152411694/97ac591b-8183-4c86-81c5-765f2b0607ab)
 
 Username: admin
 Password: Test@123
